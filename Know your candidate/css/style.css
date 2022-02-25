@@ -1,0 +1,102 @@
+.margin {
+        margin-left: 1px;
+        margin-right: 1px;
+    }
+
+    .center {
+        width: 500px;
+        margin-left: auto;
+        margin-right: auto;
+        border: 1px solid black;
+        padding-right: 20px;
+    }
+
+    .center1 {
+        width: 500px;
+        margin-left: auto;
+        margin-right: auto;
+        padding-right: 20px;
+    }
+
+    #customers {
+        font-family: Arial, Helvetica, sans-serif;
+        border-collapse: collapse;
+        width: 100%;
+    }
+
+    th,
+    td {
+        border: 1px solid black;
+    }
+
+    table {
+        width: 100%;
+        margin-left: 10px;
+        margin-right: 10px;
+        margin-top: 10px;
+        margin-bottom: 10px;
+        background-color: white;
+    }
+
+
+    td {
+        width: 110px;
+        height: 110px;
+    }
+
+    .design {
+        font-weight: bold;
+    }
+/* #ff66cc */
+    body {
+        background: linear-gradient(#f759c2  0%, #33ccff, #f759c2 100%);
+        padding-bottom: 100px;
+    }
+
+    .arrange {
+        font-weight: bold;
+        margin-left: 5px;
+        font-size: 20px;
+        background-color: rgb(255, 136, 0);
+        padding: 3px;
+    }
+
+    .paranice {
+        font-weight: bold;
+        margin: 0px;
+        line-height: 1;
+        color: blue;
+    }
+
+    .outlineYellow {
+        background-color: yellow;
+        margin-top: 10px;
+        margin-bottom: 50px
+    }
+
+    .parliamentary {
+        font-size: 13px;
+        font-weight: bold;
+        background-color: yellow;
+        margin-left: 30px;
+        margin-right: 15px
+    }
+
+    .westernArea {
+        margin: 0px;
+        line-height: 1;
+        font-weight: bold;
+    }
+
+    .footer {
+        margin-left: 10px;
+        margin-bottom: 5px;
+        background-color: white
+    }
+
+
+    .vote_date {
+        font-weight: bold;
+        font-size: 14px;
+        margin: 0px;
+    }
